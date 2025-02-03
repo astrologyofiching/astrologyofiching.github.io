@@ -1,0 +1,70 @@
+I CHING ASTROLOGY SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: YOU SHOULD CAREFULLY READ THIS 
+LEGAL AGREEMENT BEFORE INSTALLING THIS PACKAGE.
+BY INSTALLING I CHING ASTROLOGY,
+YOU ACCEPT ALL THE TERMS AND CONDITIONS OF 
+THIS AGREEMENT AND AGREE THAT YOU WILL BE 
+LEGALLY BOUND BY THEM. IF THESE TERMS AND 
+CONDITIONS ARE NOT ACCEPTABLE TO YOU, 
+DO NOT CONTINUE TO INSTALL THIS SOFTWARE.
+
+I CHING ASTROLOGY SOFTWARE LICENSE AGREEMENT LICENSE TERMS
+
+Oleg I. Galkin - the Author of the I Ching Astrology software product ("Author") 
+grants you ("Customer") a license to use the software product I Ching Astrology 
+and it's documentation, subject to the separate, applicable provisions below. 
+I Ching Astrology may also be called "Four Pillars of Wisdom", "FPoW" or "Pillars" in 
+I Ching Astrology documentation, web site and the program itself.
+
+1. PROVISIONS FOR I CHING ASTROLOGY
+
+COPYRIGHT/OWNERSHIP OF PROGRAM: I Ching Astrology is the proprietary 
+product of Author and its licensors and it is protected 
+by copyright, trade secret and other intellectual property laws.
+
+Customer acquires only the right to use I Ching Astrology and does not 
+acquire any rights, express or implied, in I Ching Astrology.
+
+Customer shall not remove any product identification, copyright
+notices, or other notices or proprietary restrictions from I Ching Astrology.
+
+Customer shall not cause or permit reverse engineering,
+disassembly, or decompilation of I Ching Astrology.
+
+UNINSTALL INSTRUCTIONS:
+Customer may uninstall I Ching Astrology at any time
+by going to the Microsoft Store and clicking the Remove button.
+
+NO WARRANTIES OF ANY KIND: I CHING ASTROLOGY IS PROVIDED "AS IS" 
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  
+AUTHOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED 
+IN I CHING ASTROLOGY WILL MEET YOUR REQUIREMENTS OR OPERATE 
+IN AN ENVIRONMENT CREATED BY YOU OR THAT THE OPERATION 
+OF I CHING ASTROLOGY WILL BE UNINTERRUPTED OR ERROR FREE OR 
+THAT I CHING ASTROLOGY ERRORS WILL BE CORRECTED. 
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE 
+OF I CHING ASTROLOGY IS WITH YOU. 
+
+THIS SOFTWARE IS FOR ENTERTAINMENT PURPOSES ONLY.
+
+ALL INFORMATION CONTAINED IN THIS SOFTWARE AND PROVIDED BY THIS SOFTWARE IS FOR ENTERTAINMENT PURPOSES ONLY.
+
+LIMITATION OF LIABILITY: NEITHER AUTHOR NOR 
+ANY OF ITS LICENSORS SHALL BE LIABLE FOR ANY DAMAGES 
+CAUSED BY I CHING ASTROLOGY INCLUDING BUT NOT LIMITED TO INDIRECT, 
+INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES 
+FOR LOSS OF PROFITS, LOSS OF SAVINGS, REVENUE, DATA, 
+INCURRED BY CUSTOMER OR ANY THIRD PARTY, EVEN IF AUTHOR 
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+2. PRIVACY
+
+I CHING ASTROLOGY WEB SITES: I Ching Astrology web sites may use cookies to track users. 
+I Ching Astrology affiliates and advertisers may also use cookies.
+
+CUSTOMER HEREBY ACKNOWLEDGES THAT CUSTOMER HAS READ 
+THIS AGREEMENT, UNDERSTANDS IT AND AGREES TO BE BOUND 
+BY ITS TERMS AND CONDITIONS.
